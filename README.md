@@ -28,7 +28,7 @@
 *Motion.dev*
 
 **AI & Tools:**
-*Bolt.new, Firebase.Studio, Antigravity.Google, Gemini-CLI, Claude*
+*Bolt.new, Antigravity (Google), Gemini-CLI, Claude, Kiro*
 
 ---
 
@@ -37,6 +37,10 @@
 **Web Projects:**
 - **[Git To-Do Manager](https://github.com/YashIsCursed/git-todo-s)**
 - **[Ai Council](https://github.com/YashIsCursed/ai_Emotion_Actions)**
+
+**Final year Project:**
+- **[SwardFall](https://github.com/YashIsCursed/swordfall)**
+
 
 **Python Projects:**
 - **[Micro Project](https://github.com/YashIsCursed/Python-Project-Task-Management)**
