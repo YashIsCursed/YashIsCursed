@@ -35,7 +35,6 @@
 ### Featured Projects
 
 **Web Projects:**
-- **[Git To-Do Manager](https://github.com/YashIsCursed/git-todo-s)**
 - **[Ai Council](https://github.com/YashIsCursed/ai_Emotion_Actions)**
 
 **Final year Project:**
